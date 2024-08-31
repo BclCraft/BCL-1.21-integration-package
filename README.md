@@ -7,7 +7,6 @@
 | -------- | -:  |
 | [PCL2](https://github.com/Hex-Dragon/PCL2)      | ✔️  |
 | [HMCL](https://github.com/HMCL-dev/HMCL)        | ✔️   |
-| [Modrinth](https://modrinth.com)        | ✔️   |
 | ……        |    ……    |
 
 [BCLcraft官网](https://www.bclcraft.com)
