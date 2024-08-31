@@ -10,5 +10,7 @@
 | [Modrinth](https://modrinth.com)        | ✔️   |
 | ……        |    ……    |
 
-([BCLcraft官网](https://www.bclcraft.com)
+[BCLcraft官网](https://www.bclcraft.com)
+
+
 **_Copyright © 2021-2024 BclCraft All rights reserved._**
